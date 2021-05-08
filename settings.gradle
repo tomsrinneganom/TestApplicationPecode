@@ -1,0 +1,2 @@
+rootProject.name = "TestApplicationPecode"
+include ':app'
